@@ -1,1 +1,1 @@
-# gitlab-hook-tes
+# gitlab-hook-te
